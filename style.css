@@ -106,3 +106,24 @@ img {
 
 
 
+/*Width at 980 and below*/
+@media screen and (max-width: 980px) {
+    body {
+        text-align: left;
+    }
+
+/*Width at 760 and below*/
+@media screen and (max-width: 760px) {
+    body {
+        text-align: left;
+    }
+
+/*Width at 640 and below*/
+@media screen and (max-width: 640px) {
+    body {
+        text-align: left;
+    }
+
+
+
+
